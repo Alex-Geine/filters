@@ -37,7 +37,7 @@ protected:
 	afx_msg void OnPaint();
 	afx_msg HCURSOR OnQueryDragIcon();
 	DECLARE_MESSAGE_MAP()
-public:
+public:  
 	afx_msg void OnEnChangeEdit2();
 	double A1;
 	double A2;	//Амплитуды синусоид
